@@ -1,4 +1,21 @@
+# 1D-CNN-FAO for ECG Arrhythmia Classification
 
+This repository contains the implementation of a 1D CNN optimized using the Fractional Adam Optimizer (FAO) for ECG arrhythmia classification on the MIT-BIH Arrhythmia dataset.
+
+## Requirements
+- Python 3.8+
+- TensorFlow
+- NumPy
+- SciPy
+- scikit-learn
+
+## Usage
+1. Clone the repository
+2. Install dependencies
+3. Run the training script
+
+## Dataset
+MIT-BIH Arrhythmia Dataset (not included due to licensing).
 
 
 ```
@@ -33,3 +50,7 @@
     ├── seed.py
     └── data_loader.py
 ```
+=======
+# 1D-CNN-FAO
+ECG Signal-based Arrhythmia Classification Using 1D CNN with Fractional Adam Optimizer
+>>>>>>> eda0ba4a855c87ebacaa219df6f41f8de5b44e9d
