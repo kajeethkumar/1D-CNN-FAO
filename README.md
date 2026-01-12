@@ -53,4 +53,6 @@ MIT-BIH Arrhythmia Dataset (not included due to licensing).
 =======
 # 1D-CNN-FAO
 ECG Signal-based Arrhythmia Classification Using 1D CNN with Fractional Adam Optimizer
->>>>>>> eda0ba4a855c87ebacaa219df6f41f8de5b44e9d
+
+
+**This repository is under development**
