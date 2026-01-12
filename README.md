@@ -15,8 +15,8 @@ This repository contains the implementation of a 1D CNN optimized using the Frac
 3. Run the training script
 
 ## Dataset
-MIT-BIH Arrhythmia Dataset can be downloaded from [PhysioNet]{https://www.physionet.org/content/mitdb/1.0.0/}
-MIT-BIH and INCART12 heart-beat segmented dataset can be downloaded from [Kaggle]{https://www.kaggle.com/datasets/sadmansakib7/ecg-arrhythmia-classification-dataset}
+MIT-BIH Arrhythmia Dataset can be downloaded from [PhysioNet](https://www.physionet.org/content/mitdb/1.0.0/)
+MIT-BIH and INCART12 heart-beat segmented dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/sadmansakib7/ecg-arrhythmia-classification-dataset)
 
 ```
 1D-CNN-ECG/
