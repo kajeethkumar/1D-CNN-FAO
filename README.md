@@ -25,9 +25,6 @@ MIT-BIH Arrhythmia Dataset (not included due to licensing).
 ├── requirements.txt
 ├── LICENSE
 │
-├── data/
-│   ├── README.md
-│
 ├── preprocessing/
 │   ├── dwt_denoising.py
 │   ├── r_peak_detection.py
