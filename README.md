@@ -47,7 +47,7 @@ MIT-BIH and INCART12 heart-beat segmented dataset can be downloaded from [Kaggle
     ├── seed.py
     └── data_loader.py
 ```
-=======
+
 # 1D-CNN-FAO
 ECG Signal-based Arrhythmia Classification Using 1D CNN with Fractional Adam Optimizer
 
